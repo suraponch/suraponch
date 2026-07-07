@@ -24,13 +24,6 @@ I build scalable, high-performance web applications with a focus on clean code a
 
 ---
 
-### 📫 Connect with Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 Email: contact@suraponch.dev
-- 🌐 [Portfolio](https://suraponch.dev)
-
----
 *"Crafting digital excellence, one commit at a time."*
 
 หวังว่าข้อมูลนี้จะเป็นประโยชน์และช่วยให้โปรไฟล์ GitHub ของคุณดูโดดเด่นครับ! มีส่วนไหนอยากให้ปรับแก้บอกได้เลยนะครับ
